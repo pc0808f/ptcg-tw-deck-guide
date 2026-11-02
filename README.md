@@ -8,7 +8,7 @@
 - 涵蓋：建立牌組、發行牌組編碼、登錄到我的牌組、報名賽事後登錄比賽牌組
 
 ## 線上觀看
-https://你的帳號.github.io/ptgc-deck-registration-guide/
+https://pc0808f.github.io/ptcg-tw-deck-guide/
 
 ## 注意事項
 - 牌組須在主辦方指定的「牌組登錄截止日」前完成登錄
